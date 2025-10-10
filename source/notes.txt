@@ -38,3 +38,4 @@
         - :term:`Trading strategy`
 
         - :term:`Risk-adjusted return`
+# Update: 2025-10-10
